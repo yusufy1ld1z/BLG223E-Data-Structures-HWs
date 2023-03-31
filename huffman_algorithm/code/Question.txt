@@ -1,0 +1,1 @@
+The keys are pangrams, which means they are a sentence containing every letter of the English alphabet.
